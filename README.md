@@ -1,4 +1,4 @@
-# Manogyna — Resume Website
+# Manogyna Reddy  — Portfolio Website
 
 ## Files
 - `index.html` — website structure and content
